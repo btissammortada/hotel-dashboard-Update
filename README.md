@@ -52,13 +52,7 @@ Il faut un serveur local :
 2. Installer l'extension **Live Server**
 3. Clic droit sur `index.html` puis **Open with Live Server**
 
-Ou, avec Python, dans le dossier du projet :
 
-```
-python -m http.server 8000
-```
-
-puis ouvrir http://localhost:8000
 
 ## Auteur
 
